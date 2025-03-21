@@ -7,7 +7,7 @@ def math():
     average = (a + b)/2
     intQuotient = a // b
     remainder = a % b
-    division = a / a
+    division = a / b
     print(add)
     print(difference)
     print(product)
