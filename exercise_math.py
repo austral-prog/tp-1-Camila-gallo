@@ -15,3 +15,4 @@ def math():
     print(intQuotient)
     print(remainder)
     print(division)
+math()
